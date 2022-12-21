@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/playersList-react-redux/static/css/main.1ef209bc.css",
+    "main.js": "/playersList-react-redux/static/js/main.1f1874bd.js",
+    "index.html": "/playersList-react-redux/index.html",
+    "static/media/icon-remove.svg": "/playersList-react-redux/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
+    "main.1ef209bc.css.map": "/playersList-react-redux/static/css/main.1ef209bc.css.map",
+    "main.1f1874bd.js.map": "/playersList-react-redux/static/js/main.1f1874bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef209bc.css",
+    "static/js/main.1f1874bd.js"
+  ]
+}
