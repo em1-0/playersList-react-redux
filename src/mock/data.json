@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "nickname": "Yatoro",
+    "avatar": "./images/Yatoro.jpg",
+    "new": false,
+    "tiwinner": true,
+    "position": "Carry",
+    "postedAt": "1d ago",
+    "contract": "Spirit",
+    "location": "Ukraine",
+    "tags": ["TI Champ"]
+  },
+  {
+    "id": 2,
+    "nickname": "LarI",
+    "avatar": "./images/lari.webp",
+    "new": true,
+    "tiwinner": false,
+    "position": "Mid",
+    "postedAt": "1d ago",
+    "contract": "Spirit",
+    "location": "Russia",
+    "tags": []
+  },
+  {
+    "id": 3,
+    "nickname": "Collapse",
+    "avatar": "./images/collapse.jfif",
+    "new": false,
+    "tiwinner": true,
+    "position": "Offlane",
+    "postedAt": "1d ago",
+    "contract": "Spirit",
+    "location": "Russia",
+    "tags": ["TI Champ"]
+  },
+  {
+    "id": 4,
+    "nickname": "Mira",
+    "avatar": "./images/mira.jfif",
+    "new": false,
+    "tiwinner": true,
+    "position": "Soft support",
+    "postedAt": "1d ago",
+    "contract": "Spirit",
+    "location": "Ukraine",
+    "tags": ["TI Champ"]
+  },
+  {
+    "id": 5,
+    "nickname": "Miposhka",
+    "avatar": "./images/miposhka.jpg",
+    "new": false,
+    "tiwinner": true,
+    "position": "Full support",
+    "postedAt": "1d ago",
+    "contract": "Spirit",
+    "location": "Russia",
+    "tags": [
+      "Captain",
+      "TI Champ"
+    ]
+  },
+  {
+    "id": 6,
+    "nickname": "Pure",
+    "avatar": "./images/pure.jpg",
+    "new": false,
+    "tiwinner": false,
+    "position": "Carry",
+    "postedAt": "1d ago",
+    "contract": "BetBoom",
+    "location": "Russia",
+    "tags": [
+    ]
+  },
+  {
+    "id": 7,
+    "nickname": "gpk",
+    "avatar": "./images/gpk.jfif",
+    "new": false,
+    "tiwinner": false,
+    "position": "Mid",
+    "postedAt": "1d ago",
+    "contract": "BetBoom",
+    "location": "Russia",
+    "tags": [
+    ]
+  },
+  {
+    "id": 8,
+    "nickname": "Nightfall",
+    "avatar": "./images/nightfall.jfif",
+    "new": false,
+    "tiwinner": false,
+    "position": "Offlane",
+    "postedAt": "1d ago",
+    "contract": "BetBoom",
+    "location": "Russia",
+    "tags": [
+    ]
+  },
+  {
+    "id": 9,
+    "nickname": "Save-",
+    "avatar": "./images/save.webp",
+    "new": false,
+    "tiwinner": false,
+    "position": "Soft support",
+    "postedAt": "1d ago",
+    "contract": "BetBoom",
+    "location": "Russia",
+    "tags": []
+  },
+  {
+    "id": 10,
+    "nickname": "TORONTOTOKYO",
+    "avatar": "./images/TORONTOTOKYO.webp",
+    "new": false,
+    "tiwinner": true,
+    "position": "Full support",
+    "postedAt": "1d ago",
+    "contract": "BetBoom",
+    "location": "Russia",
+    "tags": ["TI Champ"]
+  },
+  {
+    "id": 11,
+    "nickname": "Daxak",
+    "avatar": "./images/daxak.webp",
+    "new": false,
+    "tiwinner": false,
+    "position": "Carry",
+    "postedAt": "1d ago",
+    "contract": "HellRaisers",
+    "location": "Russia",
+    "tags": []
+  },
+  {
+    "id": 12,
+    "nickname": "depressedkid",
+    "avatar": "./images/depressedkid.webp",
+    "new": false,
+    "tiwinner": false,
+    "position": "Mid",
+    "postedAt": "1d ago",
+    "contract": "HellRaisers",
+    "location": "Russia",
+    "tags": []
+  }
+]
